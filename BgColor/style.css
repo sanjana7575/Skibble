@@ -1,0 +1,11 @@
+.main{
+    margin-left: 40%;
+    background-color: lightgrey;
+    width: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    
+}
+input{
+    margin-left: 50% ;
+}

@@ -1,0 +1,41 @@
+.container{
+    text-align: center;
+    padding: 35px;
+    margin: 35px;
+    background-color: rgb(233, 164, 164);
+    width: 350px;
+    border-radius: 35px;
+    height: 250px;
+    margin-left: 35%;
+    border: 5px solid lightgreen;
+}
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: 550;
+}
+
+input{
+    margin: 10px;
+}
+
+.b1{
+    height:40px;
+    width: 40px;
+    font-weight: 400;
+    font-size: larger;
+    border-radius: 8px;
+    border: none;
+    text-align: center;
+}
+
+.b1:hover{
+    color: white;
+    background-color: lightgray;
+    transition:1s;
+    scale:1.5 ;
+    background-color: black;
+    border-radius: 20px;
+}
